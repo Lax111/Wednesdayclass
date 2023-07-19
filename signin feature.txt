@@ -1,0 +1,4 @@
+this is Agile method
+this is v- method
+this is Iterative method
+this is Waterfall method
