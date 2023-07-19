@@ -1,2 +1,4 @@
+
 interface
 implements
+extends wednesday
